@@ -7,3 +7,4 @@ user_data = "${file("install_wordpress.sh")}"
     Name = "Wordpress"
   }
 }
+#comment
